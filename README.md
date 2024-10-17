@@ -20,3 +20,7 @@ Adapted fonts: Use of special fonts to facilitate reading (e.g. sans serif fonts
 ## 5. Collaborative features
 Comments and discussions : Allow users to leave comments or ask questions about texts to encourage a community of readers.
 Collaborative texts: More advanced users could contribute to enriching the text base.
+
+## Entity Model
+![klassediagramm_page-0001](https://github.com/user-attachments/assets/89a6bd94-a962-4147-8036-9b3b75f6d6f5)
+
